@@ -1,3 +1,3 @@
 # udemy-webdriverio
 
-Udemy Course Link https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/
+Udemy Course [Link](https://www.udemy.com/course/webdriverio-tutorial-nodejs-javascript/)
